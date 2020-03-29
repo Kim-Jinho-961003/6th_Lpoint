@@ -1,6 +1,3 @@
-## Project
-This Project is conducted by participating in the 6th L'Point Competition
-
 ## Each Code description
 Crawling papago: Translate English item information into Korean  
 Cosine_Similarity: Cosine similarity analysis to extracts the purchase history of the customer most similar to the prospect  
