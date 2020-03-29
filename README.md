@@ -4,4 +4,4 @@
 3. Co-occurence & Recommendation: Generate the final recommendation list by calculating the number of co-occurrences
 
 ## The project progress is as follows
-1 -> 2 -> 3
+Crawling papage -> Cosine_Similarity -> Co-occurence & Recommendation
