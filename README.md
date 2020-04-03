@@ -1,5 +1,5 @@
 ### Project Topic
-Audience Targeting through a total of 4 data
+Audience Targeting through a total of 4 data  
 (online behavior information, transaction information, customer demographic information, product classification information)
 ##### Detailed Tasks
 1) Non-identifying online prospects behavior / consumption pattern generation
