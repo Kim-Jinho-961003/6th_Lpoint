@@ -1,5 +1,10 @@
 ### Project Topic
-
+Audience Targeting through a total of 4 data
+(online behavior information, transaction information, customer demographic information, product classification information)
+##### Detailed Tasks
+1) Non-identifying online prospects behavior / consumption pattern generation
+2) AI-based customized product recommendation algorithm
+3) Business strategy establishment
 
 ### Each Code description
 1. Crawling papago: Translate English item information into Korean  
