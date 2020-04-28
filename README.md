@@ -1,4 +1,6 @@
 ### Competition Topic
+https://competition.lpoint.com/index.tran
+
 Audience Targeting through a total of 4 data  
 (online behavior information, transaction information, customer demographic information, product classification information)
 ##### Detailed Tasks
